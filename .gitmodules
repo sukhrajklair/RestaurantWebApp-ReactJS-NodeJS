@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/sukhrajklair/restaurant-website-backend-express-mongoDB.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/sukhrajklair/restaurant-website-react-redux.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/sukhrajklair/restaurant-app-react-native-client
